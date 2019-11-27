@@ -1,5 +1,5 @@
-##该项目已停止维护
-##NO MORE MAINTAINED
+## 该项目已停止维护
+## NO MORE MAINTAINED
 
 
 FFXIV Duty Finder & F.A.T.E. Assist - CN Support Version
